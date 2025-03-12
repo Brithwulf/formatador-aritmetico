@@ -1,2 +1,6 @@
-# formatador-aritmetico
-estudo que fiz para formatar cálculos e deixá-los iguais aos que fazemos no papel
+# Formatador Aritmético
+
+Um projeto do freeCodeCamp que formata expressões matemáticas de forma organizada.
+
+## 📌 Tecnologias usadas:
+- Python
